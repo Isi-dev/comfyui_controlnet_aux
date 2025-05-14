@@ -4,7 +4,7 @@ huggingface_hub
 scipy
 opencv-python>=4.7.0.72
 filelock
-numpy
+numpy>=2.0.0
 Pillow
 einops
 torchvision
